@@ -516,7 +516,7 @@ function LoginScreen({ onSuccess }) {
             border: "2px solid rgba(100,180,255,0.3)",
             animation: "pulse-ring 2s ease-out infinite"
           }} />
-          <div style={{ fontSize: "3rem" }}>💙</div>
+          <div style={{ fontSize: "3rem" }}>🤍</div>
         </div>
 
         <h1 style={{
@@ -576,8 +576,8 @@ function LoginScreen({ onSuccess }) {
         </button>
       </div>
 
-      <p style={{ color: "rgba(80,140,200,0.4)", fontSize: "0.75rem", marginTop: "24px", fontFamily: "'Lato', sans-serif" }}>
-        Hecho con 💙 para ti
+      <p style={{ color: "rgba(80,140,200,0.4)", fontSize: "1.20rem", marginTop: "24px", fontFamily: "'Lato', sans-serif" }}>
+        Hecho con mucho amor para ti
       </p>
     </div>
   );
